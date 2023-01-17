@@ -9,14 +9,7 @@ function App() {
         <p>
           emmmmmmm.........
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img className="App-link" src="http://www.desktopwallpaperhd.net/wallpapers/9/6/background-images-wallpaper-eagle-animal-91142.jpg" alt="" />
       </header>
     </div>
   );
